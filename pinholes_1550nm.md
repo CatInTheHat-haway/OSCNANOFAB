@@ -1,5 +1,7 @@
 Multi‐pinhole mask fabrication for 1550 nm light
 
+[MLA/SEM Images](https://github.com/CatInTheHat-haway/OSCNANOFAB/blob/main/pinhole_sem.pdf)
+
 **Prep Sample Slides**
 * Cut microscope slide into 3 pieces
 * Clean slides with acetone and dry with nitrogen air
