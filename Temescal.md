@@ -1,3 +1,7 @@
+# Thin Film Deposition
+Utlizing [Temescal](https://temescal.ferrotec.com/) Electron-Beam based evaporative coatings
+
+## Example commands to deposit a recipe 
 log on: User + pass
 
 Automatic menu -> auto menu -> vent PC (*START*)
