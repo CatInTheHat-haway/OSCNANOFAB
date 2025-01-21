@@ -1,20 +1,19 @@
-# OSC NANOFAB
-Tutorials of Cleanroom equipment / processes
+# Tutorials of Cleanroom equipment / processes
 
 ## 8th floor:
 
-[MLA150](https://github.com/CatInTheHat-haway/OSCNANOFAB/blob/main/MLA150.md) 
+[MLA150](https://catinthehat-haway.github.io/OSCNANOFAB/MLA150) 
 
-[Spin Coater](https://github.com/CatInTheHat-haway/OSCNANOFAB/blob/main/Spin_Coater.md)
+[Spin Coater](https://catinthehat-haway.github.io/OSCNANOFAB/Spin_Coater)
 
 ## 7th floor:
 
-[SEM](https://github.com/CatInTheHat-haway/OSCNANOFAB/blob/main/SEM.md)
+[SEM](https://catinthehat-haway.github.io/OSCNANOFAB/SEM)
 
-[Temescal](https://github.com/CatInTheHat-haway/OSCNANOFAB/blob/main/Temescal.md)
+[Temescal](https://catinthehat-haway.github.io/OSCNANOFAB/Temescal)
 
 ## Experimental Process: 
 
-[Pinholes](https://github.com/CatInTheHat-haway/OSCNANOFAB/blob/main/pinholes_1550nm.md)
+[Pinholes](https://catinthehat-haway.github.io/OSCNANOFAB/pinholes_1550nm)
 
-[SCC](https://github.com/CatInTheHat-haway/OSCNANOFAB/blob/main/SCC.md)
+[SCC](https://catinthehat-haway.github.io/OSCNANOFAB/SCC)
