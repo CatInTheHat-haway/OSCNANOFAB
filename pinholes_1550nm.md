@@ -1,6 +1,8 @@
-Multi‐pinhole mask fabrication for 1550 nm light
+# Multi‐pinhole mask fabrication for 1550 nm light
 
 [MLA/SEM Images](https://github.com/CatInTheHat-haway/OSCNANOFAB/blob/main/pinhole_sem.pdf)
+
+## Preparation of sample
 
 **Prep Sample Slides**
 * Cut microscope slide into 3 pieces
@@ -16,6 +18,8 @@ Multi‐pinhole mask fabrication for 1550 nm light
 * System Vaccuum —> off
 * White switch —> vacuum off
 * Take out sample 
+
+## Adhesion + Photoresist 
 
 **Use syringe to put HDMS (adhesion) on sample**
 * Solvent 
@@ -37,6 +41,7 @@ Multi‐pinhole mask fabrication for 1550 nm light
 * Run mode —> static program process  
 * Line machine with foil and clean up immediately. Use syringe with needle to get chemicals out of bottle, use filter to add chemical onto sample
 
+## Patterning
 **MLA**
 * Prebake 
 * Temp —> 110C 
@@ -73,6 +78,7 @@ Multi‐pinhole mask fabrication for 1550 nm light
 * Deposit Aluminum
 * Tape samples to wafer
 
+## Aluminium Deposition 
 **Temescal  / electron beam evaporator**
 * User: Pass:
 * Automatic menu
@@ -103,27 +109,27 @@ Multi‐pinhole mask fabrication for 1550 nm light
 * Sonic bath with acetone
 * Time —> 5 mins
 
+## Analysis 
 **SEM**
-*Image + characterize roughness 
-*Vent chamber —> "air" (top right)
- Take sample to holder 
- Specimen settings 
- Following instructions 
- Height of sample —> standard +2mm
- Diameter of sample —> ~50mm
- Enter size + height + "stage move"
- "Ok"
- *EVAC —> top right
- Beep: HV on
- Aperture —> 
- Condition
- Check vacuum state 
- *HVAC ON —> top left 
- Condition -> electron beam
-Vaca —> 5kV, 10 kV
- ABCC —> auto contrast 
- Done 
- High voltage —> off (top left) 
-Air —> top right 
-Open + take out sample + close door
-EVAC —> top right 
+* Image + characterize roughness 
+* Vent chamber —> "air" (top right)
+* Take sample to holder
+* Specimen settings
+* Following instructions
+* Height of sample —> standard +2mm
+* Diameter of sample —> ~50mm
+* Enter size + height + "stage move"
+* "Ok"
+* *EVAC —> top right
+*  Beep: HV on
+*   Aperture —>  Condition
+*    Check vacuum state
+*    *HVAC ON —> top left
+*    Condition -> electron beam
+*    Vaca —> 5kV, 10 kV
+* ABCC —> auto contrast
+*  Done
+*   High voltage —> off (top left)
+*   Air —> top right
+*   Open + take out sample + close door
+*   EVAC —> top right 
