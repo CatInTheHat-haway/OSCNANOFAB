@@ -5,7 +5,7 @@ University of Arizona
 
 Wyant College of Optical Sciences ( [OSC](https://wp.optics.arizona.edu/osccleanroom/policies/) )
 
-Last updated: feb/24/2025
+Last updated: 02/24/2025
 
 ## 8th floor:
 
