@@ -3,7 +3,7 @@ as compiled by G.C. Hathaway
 
 University of Arizona 
 
-Wyant College of Optical Sciences (OSC)
+Wyant College of Optical Sciences ( [OSC](https://wp.optics.arizona.edu/osccleanroom/policies/) )
 
 Last updated: feb/24/2025
 
