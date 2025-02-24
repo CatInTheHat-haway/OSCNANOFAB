@@ -1,5 +1,8 @@
 # Tutorials of Cleanroom equipment / processes
-as compiled by G.C. Hathaway 
+as compiled by G.C. Hathaway  
+University of Arizona 
+Wyant College of Optical Sciences (OSC)
+
 ## 8th floor:
 
 [MLA150](https://catinthehat-haway.github.io/OSCNANOFAB/MLA150) 
@@ -14,7 +17,7 @@ as compiled by G.C. Hathaway
 
 [Temescal](https://catinthehat-haway.github.io/OSCNANOFAB/Temescal)
 
-## Experimental Process: 
+### Experimental Process: 
 
 [Pinholes](https://catinthehat-haway.github.io/OSCNANOFAB/pinholes_1550nm)
 
