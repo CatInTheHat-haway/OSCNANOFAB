@@ -16,19 +16,19 @@ Depostion -> [P5000](https://catinthehat-haway.github.io/OSCNANOFAB/P5000)
 ## Patterning
 1) prebake: 110C 60s  (hot plate)
 
-    positive photo resist -> [Spin Coater](https://catinthehat-haway.github.io/OSCNANOFAB/Spin_Coater) 
-  
-    Pattern -> [MLA150](https://catinthehat-haway.github.io/OSCNANOFAB/MLA150) -> Dose: 200 mJ/cm^2 
-  
-    postbake: 110C 60s   (hot plate)
+   positive photo resist -> [Spin Coater](https://catinthehat-haway.github.io/OSCNANOFAB/Spin_Coater)
 
-2) Develop: MF319 / MF321  
+   Pattern -> [MLA150](https://catinthehat-haway.github.io/OSCNANOFAB/MLA150) -> Dose: 200 mJ/cm^2
 
-    plasma etch
+   postbake: 110C 60s   (hot plate)
+
+3) Develop: MF319 / MF321
+
+4) Plasma etch
 
 **Repeat for back side**
 
-3) KOH wetch etch
+5) KOH wetch etch
 
 ## Reflectivity 
 
