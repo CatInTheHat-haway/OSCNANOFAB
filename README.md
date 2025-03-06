@@ -1,5 +1,5 @@
 # Tutorials of Cleanroom equipment / processes
-`~~as compiled by G.C. Hathaway~~` 
+~~ as compiled by G.C. Hathaway ~~ 
 
 University of Arizona 
 
