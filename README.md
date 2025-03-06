@@ -1,15 +1,15 @@
 # Tutorials of Cleanroom equipment / processes
-as compiled by G.C. Hathaway  
+`~~as compiled by G.C. Hathaway~~` 
 
 University of Arizona 
 
-Wyant College of Optical Sciences ( [OSC](https://wp.optics.arizona.edu/osccleanroom/policies/) )
+Wyant College of Optical Sciences ([OSC](https://wp.optics.arizona.edu/osccleanroom/policies/))
 
 Last updated: 03/06/2025 
 
 ## 8th floor:
 
-[MLA150](https://catinthehat-haway.github.io/OSCNANOFAB/MLA150) 
+[MLA150](https://catinthehat-haway.github.io/OSCNANOFAB/MLA150)
 
 [Spin Coater](https://catinthehat-haway.github.io/OSCNANOFAB/Spin_Coater)
 
