@@ -1,25 +1,35 @@
 # Process for creation of Reflective Lyot Stop 
 
-## Silicon nitride thin film 
-Nitride deposit -> [P5000]
+## Silicon nitride  
+Depostion -> [P5000](https://catinthehat-haway.github.io/OSCNANOFAB/P5000)
 
-## Patterning to create Lyot stop
-prebake: 110C 60s  (hot plate)
+  Deposition Recipe -> "NEW SN"
 
-positive photo resist -> [Spin Coater] 
+  **average deposition rate**: 335 nm/min
 
-Pattern -> [MLA150] -> Dose: 200 mJ/cm^2 
+    1 micron layer = 2.985 min = 179.1 sec
 
-postbake: 110C 60s   (hot plate)
+  Clean Recipe -> "SIN CLEAN"
 
-Develop: MF319 / MF321  
+  **Repeat for back side**
 
-plasma etch
+## Patterning
+1) prebake: 110C 60s  (hot plate)
 
-repeat for back side
+    positive photo resist -> [Spin Coater](https://catinthehat-haway.github.io/OSCNANOFAB/Spin_Coater) 
+  
+    Pattern -> [MLA150](https://catinthehat-haway.github.io/OSCNANOFAB/MLA150) -> Dose: 200 mJ/cm^2 
+  
+    postbake: 110C 60s   (hot plate)
+
+2) Develop: MF319 / MF321  
+
+    plasma etch
+
+**Repeat for back side**
+
+3) KOH wetch etch
 
 ## Reflectivity 
 
-KOH wetch etch
-
-Aluminum Deposit -> [Temescal] 
+Aluminum Deposit -> [Temescal](https://catinthehat-haway.github.io/OSCNANOFAB/Temescal) 
