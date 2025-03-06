@@ -21,8 +21,8 @@ Last updated: 02/24/2025
 
 [Temescal](https://catinthehat-haway.github.io/OSCNANOFAB/Temescal)
 
-### Experimental Process: 
+## Experimental Processes: 
 
-[Pinholes](https://catinthehat-haway.github.io/OSCNANOFAB/pinholes_1550nm)
+[1550nm Pinholes](https://catinthehat-haway.github.io/OSCNANOFAB/pinholes_1550nm)
 
-[SCC](https://catinthehat-haway.github.io/OSCNANOFAB/SCC)
+[SCC Reflective Lyot Stop](https://catinthehat-haway.github.io/OSCNANOFAB/SCC)
