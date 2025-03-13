@@ -14,9 +14,10 @@ Clean Recipe -> "SIN CLEAN"
 **Repeat for back side**
 
 ## Patterning
-1) prebake: 110C 60s  (hot plate)
 
-2) positive photo resist -> [Spin Coater](https://catinthehat-haway.github.io/OSCNANOFAB/Spin_Coater)
+1) positive photo resist -> [Spin Coater](https://catinthehat-haway.github.io/OSCNANOFAB/Spin_Coater)
+
+2) prebake: 110C 60s  (hot plate)
 
 3) Pattern -> [MLA150](https://catinthehat-haway.github.io/OSCNANOFAB/MLA150) -> Dose: 200 mJ/cm^2
    
